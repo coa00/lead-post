@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Lead Post
-image: /img/home-jumbotron.jpg
+image: /img/biglogo.jpeg
 heading: Lead Post
-subheading: 顧客満足度にこだわった人材支援サービスです
+subheading: ハイスキルな人材をお客様のニーズや予算にあわせて提案します。
 mainpitch:
   title: 明日を作る
   description: >
@@ -12,7 +12,7 @@ description: >-
   leadpostは変化を望む人達と共に、挑戦を支援して成長する会社を目指しています。
 intro:
   blurbs:
-    - image: /img/logo.png
+    - image: /img/coffee-gear.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
