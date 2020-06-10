@@ -1,24 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Lead Post
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Lead Post
+subheading: 顧客満足度にこだわった人材支援サービスです
 mainpitch:
-  title: Why Kaldi
+  title: 明日を作る
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    leadpostはお客様と関わる人の変化を詳らかにし、その時々の状況、役割、市場、ライフステージまで真摯に向き合います。
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  leadpostは変化を望む人達と共に、挑戦を支援して成長する会社を目指しています。
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/logo.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a

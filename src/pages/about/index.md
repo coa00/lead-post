@@ -1,19 +1,31 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: ビジョンを実現する6つのバリュー
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 毎日少しずつ変化する
+　
+毎日少しずつ変化していく、明日をよりよくするために変化を繰り返そう、毎日変化することは目標を設定してゴールするより難しいこと
+知らないことを知らないと、間違ったと思うことを間違ったと何歳でも言える認められるようにありのままの自分をさらけだそう、
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### いい意味でなりゆきで行動する
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+なりゆきとは物事が次第に変化していく様子や過程を傍観することではなく、一緒に関わって変化すること
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### 物事を面白くうけとって、愉快に人生をいきて、あんまり頑張らないで、でもへこたれない
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+どんなことでも視点や考え方を変えるだけで景色が変わる、ただ変わるために消耗しすぎない
+物には表と裏があって、どんな不幸なものに出会っても、明かりが見えるもの
+幸せがずっと続くわけではない、行き詰ったときにそこだけみないで、後ろからみるゆとりをもっていれば楽しくなる
+
+### 人に嘘はついてもいい、自分には嘘はつかないで、自分に嘘をつきそうなときは話をしよう
+
+人間は嘘つく生き物だけど自分には嘘はつかない、自分に嘘をつくくらいなら率直に話そう
+
+### カッコつけていい、美しく敗れることを恥と思うな、無様に勝つことを恥と思え
+
+調子の悪いときは誰にでもある、努力は怠らずも自分の価値を下げることはやめよう
+
+### 上手くいかないのが失敗ではない、上手くいくまで続けられないのが失敗、努力すれば報われる？そうじゃないだろ、報われるまで努力するんだ
+
+好きじゃないことだって、考えて継続した先には必ず学びがある、全力でやったと思ったら辞めたっていい、継続は必ず血肉になる
