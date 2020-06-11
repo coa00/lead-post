@@ -71,7 +71,7 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-offset-1">
               <div className="content">
-                <h2>事業内容</h2>
+                <h3 className="has-text-weight-bold is-size-3-tablet is-size-2-widescreen">事業内容</h3>
                 <Features gridItems={intro.blurbs} />
                 {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
