@@ -22,11 +22,12 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
+        backgroundRepeat: `no-repeat`,
+        backgroundSize: `contain`,
+        backgroundPosition: `center`,
       }}
     >
-      <div
+      {/* <div
         style={{
           display: 'flex',
           height: '150px',
@@ -62,30 +63,15 @@ export const IndexPageTemplate = ({
         >
           {subheading}
         </h3>
-      </div>
+      </div> */}
     </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
+                <h2>事業内容</h2>
                 <Features gridItems={intro.blurbs} />
                 {/* <div className="columns">
                   <div className="column is-12 has-text-centered">

@@ -19,26 +19,7 @@ export const ProductPageTemplate = ({
   pricing,
 }) => (
   <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-      }}
-    >
-      <h2
-        className="has-text-weight-bold is-size-1"
-        style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
-          color: 'white',
-          padding: '1rem',
-        }}
-      >
-        {title}
-      </h2>
-    </div>
+
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -48,57 +29,31 @@ export const ProductPageTemplate = ({
               <p>{description}</p>
             </div>
           </div>
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
-                  <h3 className="has-text-weight-semibold is-size-3">
-                    {main.heading}
-                  </h3>
-                  <p>{main.description}</p>
-                </div>
-              </div>
-              <div className="tile is-ancestor">
-                <div className="tile is-vertical">
-                  <div className="tile">
-                    <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
-                      </article>
-                    </div>
-                    <div className="tile is-parent">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
-                      </article>
-                    </div>
-                  </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
-                </div>
-              </div>
-              <Testimonials testimonials={testimonials} />
-              <div
-                className="full-width-image-container"
-                style={{
-                  backgroundImage: `url(${
-                    fullImage.childImageSharp
-                      ? fullImage.childImageSharp.fluid.src
-                      : fullImage
-                  })`,
-                }}
-              />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
-            </div>
-          </div>
-        </div>
+          <table class="commpanyprofile">
+	<tr>
+		<th scope="row">資本金</th>
+		<td>100万円</td>
+	</tr>
+	<tr>
+		<th scope="row">本社所在地</th>
+		<td>神奈川県川崎市宮前区犬蔵2-15-38</td>
+	</tr>
+	<tr>
+		<th scope="row">代表取締役</th>
+		<td>明沢　貴文</td>
+	</tr>
+	<tr>
+		<th scope="row">事業内容</th>
+		<td>採用ブランディング事事業<br/>
+		営業代行業業<br/>
+    エンジニア常駐開発<br/>
+    リモート開発事事業<br/>
+    システムインテグレーション事業業<br/>
+    前各号に付帯関連する一切の業務<br/>
+		</td>
+	</tr>
+</table>
+       </div>
       </div>
     </section>
   </div>
