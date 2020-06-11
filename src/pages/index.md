@@ -6,21 +6,17 @@ heading: Lead Post
 subheading: ハイスキルな人材をお客様のニーズや予算にあわせて提案します。
 mainpitch:
   title: 明日を作る
-  description: >
+  description: |
     leadpostはお客様と関わる人の変化を詳らかにし、その時々の状況、役割、市場、ライフステージまで真摯に向き合います。
-description: >-
-  leadpostは変化を望む人達と共に、挑戦を支援して成長する会社を目指しています。
+description: leadpostは変化を望む人達と共に、挑戦を支援して成長する会社を目指しています。
 intro:
   blurbs:
     - title: 採用ブランディング事業
       text: >
-        求職者に向けて、会社の目指すべき方向性や在りたい姿を知ってもらい
+        求職者に向けて、会社の目指すべき方向性や在りたい姿を知ってもらい、企業ブランドを向上させ、採用市場で優秀な人材を自社で獲得できるようにするための取り組みを支援します。
     - title: 営業代行業
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        キャッシュフローを意識した、リスクマネジメント観点から顧客と交渉を重ねていきます。納期どおりにつくればいいという関係性ではなく、プロジェクトのゴールを目的とした開発を共に描いて成功へと導きます。
     - title: エンジニア常駐開発
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
