@@ -12,7 +12,7 @@ description: >-
   leadpostは変化を望む人達と共に、挑戦を支援して成長する会社を目指しています。
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - title: 開発
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a

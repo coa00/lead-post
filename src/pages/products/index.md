@@ -1,14 +1,10 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: 企業概要
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: leadpost株式会社
+
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,21 +41,15 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+  company:
+      - heading: 資本金
+        value: 100万円
+      - heading: 所在地
+        value: 神奈川県川崎市宮前区犬蔵2-15-38
+      - heading: 代表取締役
+        value: 明沢　貴文
+      - heading: 事業内容
+        value: 採用ブランディング事事業
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
