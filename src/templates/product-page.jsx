@@ -30,6 +30,11 @@ export const ProductPageTemplate = ({
             </div>
           </div>
           <table class="commpanyprofile">
+  <tr>
+		<th scope="row">会社名</th>
+		<td>leadpost株式会社</td>
+	</tr>
+
 	<tr>
 		<th scope="row">資本金</th>
 		<td>100万円</td>

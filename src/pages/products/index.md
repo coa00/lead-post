@@ -3,7 +3,7 @@ templateKey: 'product-page'
 path: /products
 title: 企業概要
 image: /img/jumbotron.jpg
-heading: leadpost株式会社
+heading: 企業概要
 
 intro:
   blurbs:
