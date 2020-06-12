@@ -27,7 +27,7 @@ export const IndexPageTemplate = ({
         backgroundPosition: `center`,
       }}
     >
-      {/* <div
+      <div
         style={{
           display: 'flex',
           height: '150px',
@@ -37,7 +37,7 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
-        <h1
+        {/* <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
@@ -49,10 +49,17 @@ export const IndexPageTemplate = ({
           }}
         >
           {title}
-        </h1>
-        <h3
+        </h1> */}
+
+      </div>
+    </div>
+    <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            textAlign: 'center',
+             width: 150,
             boxShadow:
               '#269BB8 0.5rem 0px 0px, #269BB8 -0.5rem 0px 0px',
             backgroundColor: '#269BB8',
@@ -63,8 +70,7 @@ export const IndexPageTemplate = ({
         >
           {subheading}
         </h3>
-      </div> */}
-    </div>
+ 
     <section className="section section--gradient">
       <div className="container">
         <div className="section">

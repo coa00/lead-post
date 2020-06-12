@@ -3,7 +3,7 @@ templateKey: index-page
 title: Lead Post
 image: /img/biglogo.png
 heading: Lead Post
-subheading: ハイスキルな人材をお客様のニーズや予算にあわせて提案します。
+subheading: 明日を創る
 mainpitch:
   title: 明日を作る
   description: |
