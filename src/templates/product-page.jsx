@@ -45,7 +45,7 @@ export const ProductPageTemplate = ({
 	</tr>
 	<tr>
 		<th scope="row">代表取締役</th>
-		<td>明沢　貴文</td>
+		<td>Takafumi Akezawa</td>
 	</tr>
 	<tr>
 		<th scope="row">事業内容</th>
