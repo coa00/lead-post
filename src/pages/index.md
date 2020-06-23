@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: lead Post
+title: leadpost
 image: /img/biglogo.png
-heading: lead Post
+heading: leadpost
 subheading: 明日を創る
 mainpitch:
   title: 明日を作る
