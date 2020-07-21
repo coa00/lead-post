@@ -50,8 +50,8 @@ export const ProductPageTemplate = ({
 	<tr>
 		<th scope="row">事業内容</th>
 		<td>採用ブランディング事業<br/>
-		営業代行業業<br/>
-    エンジニア常駐開発<br/>
+		営業代行事業<br/>
+    エンジニア常駐開発事業<br/>
     リモート開発事業<br/>
     システムインテグレーション事業<br/>
     前各号に付帯関連する一切の業務<br/>
