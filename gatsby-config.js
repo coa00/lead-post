@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Lead Post エンジニア常駐開発、リモート開発事業',
+    title: 'leadpost エンジニア常駐開発、リモート開発事業',
     description:
-      'Lead Post エンジニア常駐開発、リモート開発事業　採用ブランディング事業',
+      'leadpost エンジニア常駐開発、リモート開発事業　採用ブランディング事業',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
